@@ -2,6 +2,8 @@
 Situación: Crear una función que reciba 3 notas,
 calcule el promedio y lo devuelva."""
 
+#Esto es un nuevo comentario
+
 def calcular_promedio(a,b,c):
     return (a+b+c)//3
 
